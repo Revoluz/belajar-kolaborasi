@@ -4,13 +4,13 @@ Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan latihan be
 2. Melakukan perubahan oleh kontributor.
 3. Melakukan pull request ke repositori asal (original repository) oleh kontributor.
 4. Mengelola pull request yang masuk oleh admin atau pemilik akun.
-5. Melihat perbedaan sebelum dan sesudah pull request dilakukan.
-Belajar-Revert
-Tahapan Proses
-Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan revert.
+5. Melihat perbedaan sebelum dan sesudah pull request dilakukan.<br>
 
-Membuka repository.
-Membuka halaman riwayat commit.
-Membuka salah satu detail commit.
-Melakukan revert.
-Menghapus branch yang terbentuk dari revert.
+# Belajar-Revert
+Tahapan Proses
+1. Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan revert.
+2. Membuka repository.
+3. Membuka halaman riwayat commit.
+4. Membuka salah satu detail commit.
+5. Melakukan revert.
+6. Menghapus branch yang terbentuk dari revert.
