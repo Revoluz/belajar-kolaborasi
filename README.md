@@ -8,9 +8,9 @@ Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan latihan be
 
 # Belajar-Revert
 Berikut adalah tahapan proses untuk melakukan Revert
- Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan revert.
- Membuka repository.
- Membuka halaman riwayat commit.
- Membuka salah satu detail commit.
- Melakukan revert.
- Menghapus branch yang terbentuk dari revert.
+1. Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan revert.
+2. Membuka repository.
+3. Membuka halaman riwayat commit.
+4. Membuka salah satu detail commit.
+5. Melakukan revert.
+6. Menghapus branch yang terbentuk dari revert.
