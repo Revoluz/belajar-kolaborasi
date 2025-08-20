@@ -7,7 +7,7 @@ Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan latihan be
 5. Melihat perbedaan sebelum dan sesudah pull request dilakukan.<br>
 
 # Belajar-Revert
-Tahapan Proses
+Berikut adalah tahapan proses untuk melakukan Revert
 1. Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan revert.
 2. Membuka repository.
 3. Membuka halaman riwayat commit.
