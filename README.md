@@ -6,7 +6,7 @@ Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan latihan be
 4. Mengelola pull request yang masuk oleh admin atau pemilik akun.
 5. Melihat perbedaan sebelum dan sesudah pull request dilakukan.<br>
 
-Belajar-Revert
+# Belajar-Revert
 Berikut adalah tahapan proses untuk melakukan Revert
  Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan revert.
  Membuka repository.
