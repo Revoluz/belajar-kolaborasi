@@ -1,4 +1,4 @@
-# belajar-kolaborasi
+# Belajar-Kolaborasi
 Berikut tahapan proses yang akan kita lakukan dalam latihan melakukan latihan berkolaborasi pada public repository.
 1. Menyalin(fork) repository oleh kontributor.
 2. Melakukan perubahan oleh kontributor.
