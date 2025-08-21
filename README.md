@@ -14,5 +14,5 @@ Berikut adalah tahapan proses untuk melakukan Revert
 4. Membuka salah satu detail commit.
 5. Melakukan revert.
 6. Menghapus branch yang terbentuk dari revert.
-
-### Manajemen kode menjadi lebih mudah berkat Github
+<br>
+Manajemen kode menjadi lebih mudah berkat Github
